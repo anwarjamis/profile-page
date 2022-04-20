@@ -16,10 +16,10 @@
     width: 500px;
   }
 }
-@media (max-width: 540px) {
+@media (max-width: 374px) {
   /* For a screen < 540px, this CSS will be read */
   .container {
-    width: 400px;
+    width: 300px;
   }
 }
 
